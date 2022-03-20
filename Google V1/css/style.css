@@ -1,0 +1,142 @@
+body {
+    margin: 0 5% 0 5%;
+}
+.logo {
+    margin-bottom: 3px;
+    height: 120px;
+}
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+section {    
+    background-color: #eeee;
+    margin-top: 0px;
+    height: 67px;
+    margin-bottom: 3px;
+}
+
+.content {
+    margin-top: 0px;
+    height: 80px;
+
+}
+
+box-1 {
+    background-color: #7ee5da;
+    float: left;
+    height: 100%;
+    width: 37%;
+    margin-top: 0px;
+    margin-right: 0.2%;
+
+}
+
+    box-2 {
+    background-color: #70ccc2;
+    float: left;
+    height: 100%;
+    width: 19%;
+    margin-top: 0px;
+    margin-right: 0.2%;
+}
+
+box-3 {
+    background-color: #62b3aa;
+    float: left;
+    height: 100%;
+    width: 43.6%;
+    margin-top: 0px;
+    text-align: center;
+}
+
+footer {
+    text-align: center;
+    font-size: 15px;
+}
+
+.text {
+    text-align: center;
+}
+
+ul.sol {
+    list-style-type: none;
+    text-align: center;
+}
+
+ul.orta {
+    list-style-type: none;
+    text-align: center;
+    line-height: 14px;
+    padding-left: 0px;
+    font-size:14px;
+    list-style-position: outside; 
+}
+
+::-webkit-input-placeholder {
+    color:black;
+}
+
+input[type=submit] {
+    width: 100%;
+    background-color: #efefef;
+    color: black;
+    border: none;
+    border-radius: 2px;
+    cursor: pointer;
+    width: 14%;
+    outline-color:black;
+    outline-style: solid;
+    outline-width: 1px;
+    font-size: 15px;
+    text-align: center;
+}
+
+label[for=fname] {
+    font-size:18px;
+}
+
+input[type=google-search] {
+    max-width: 110px;
+    background-color: #efefef;
+    color: black;
+    border: none;
+    border-radius: 2px;
+    cursor: pointer;
+    width: 14%;
+    outline-color:black;
+    outline-style: solid;
+    outline-width: 1px;
+    font-size: 15px;
+    text-align: center;
+}
+
+input[type=feel-lucky] {
+    max-width: 120px;
+    background-color: #efefef;
+    color: black;
+    border: none;
+    border-radius: 2px;
+    cursor: pointer;
+    width: 14%;
+    outline-color:black;
+    outline-style: solid;
+    outline-width: 1px;
+    font-size: 15px;
+    text-align: center;
+}
+
+input {
+    width: 33%
+}
+
+input[type="search"] {
+    width: 28% 
+}
+
+a {
+    color: #3f00eb
+    
+}
